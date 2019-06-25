@@ -1,0 +1,59 @@
+body{	
+margin:0;
+padding:0;
+background-color:#DCDCDC;
+}
+
+
+#top { 
+width:1365px;
+height:30px;
+background:	BLUE;
+color:white;
+}
+
+#top p {
+margin-left:1250px;	
+}	
+
+#top p1 {
+margin:50px;
+padding-top:5px;	
+}	
+
+#top p2 {
+padding-top:5px;
+margin-left:570px;
+}	
+
+#header{	
+background:white;
+width:1365px;
+height:80px;	
+}
+
+#header p1{
+margin:100px;
+}
+
+#sub_head{
+background:white;	
+width:1365px;
+height:30px;
+
+}
+
+#sub_head p1{
+margin:575px;
+}	
+
+#logo{
+background:white;
+width:1365px;
+height:150px;
+	
+}
+
+#logo p1{
+margin:600px;
+}	
